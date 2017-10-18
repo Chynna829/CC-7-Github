@@ -5,7 +5,7 @@
 ############################################################
 
 # Add in your name
-# Claudia
+# Xiangna
 # Add in purpose of this script
 # To learn about version control on github
 
@@ -39,7 +39,7 @@ theme.clean <- function(){
 }
 
 # Load data ----
-setwd("C:/Users/clauv/Desktop/Uni/Coding_club/Week_5/CC-7-Github")
+
 temp_elevation <- read.csv("temp_elevation.csv")
 
 # Make a plot showing how soil temperature changes with elevation ----
