@@ -12,6 +12,8 @@
 # git config --global user.email "you@example.com"
 # git config --global user.name "Your Name"
 
+#先install东东，然后library，然后先pull再push。
+
 # Libraries ----
 library(ggplot2)
 library(tidyr)
